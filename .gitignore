@@ -15,3 +15,56 @@ Saved/webcache_6613/Local State
 Saved/webcache_6613/segmentation_platform/ukm_db
 Saved/webcache_6613/segmentation_platform/ukm_db-journal
 *.db
+/Saved/Logs
+*.log
+Intermediate/CachedAssetRegistry_0.bin
+Intermediate/CachedAssetRegistryDiscovery-2026.08.03-11.25.14.bin
+Intermediate/CachedAssetRegistryDiscovery.bin
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Logs/cef3.log
+Saved/Logs/Homemade.log
+Saved/webcache_6613/BrowserMetrics-spare.pma
+Saved/webcache_6613/Default/Cache/Cache_Data/f_000003
+Saved/webcache_6613/Default/Code Cache/js/03390e9a906c64e8_0
+Saved/webcache_6613/Default/Code Cache/js/093c27dfae2b49da_0
+Saved/webcache_6613/Default/Code Cache/js/0deca4d1cce4b96e_0
+Saved/webcache_6613/Default/Code Cache/js/111b734b2110d462_0
+Saved/webcache_6613/Default/Code Cache/js/19c00b767861e127_0
+Saved/webcache_6613/Default/Code Cache/js/33920285a8f72cff_0
+Saved/webcache_6613/Default/Code Cache/js/3b07f1b3c1b589ab_0
+Saved/webcache_6613/Default/Code Cache/js/44e5087bc29dd04f_0
+Saved/webcache_6613/Default/Code Cache/js/48f0dc1bd0864d75_0
+Saved/webcache_6613/Default/Code Cache/js/49c6807b1b64d7bd_0
+Saved/webcache_6613/Default/Code Cache/js/4c0708f8a2235a9b_0
+Saved/webcache_6613/Default/Code Cache/js/7823730de6eceff3_0
+Saved/webcache_6613/Default/Code Cache/js/7bcb2f6b70478948_0
+Saved/webcache_6613/Default/Code Cache/js/8802f5fd3e980425_0
+Saved/webcache_6613/Default/Code Cache/js/8afa40c38ad8abfb_0
+Saved/webcache_6613/Default/Code Cache/js/9e62e1d27d48b8d3_0
+Saved/webcache_6613/Default/Code Cache/js/9eeaa351032c46fc_0
+Saved/webcache_6613/Default/Code Cache/js/9f34551f0dfe926b_0
+Saved/webcache_6613/Default/Code Cache/js/a96557d0b10d283b_0
+Saved/webcache_6613/Default/Code Cache/js/aa344b5e772a9578_0
+Saved/webcache_6613/Default/Code Cache/js/c2632c3cc20fbb14_0
+Saved/webcache_6613/Default/Code Cache/js/f1de113dd1b99a54_0
+Saved/webcache_6613/Default/Code Cache/js/f1f514f24ad0a274_0
+Saved/webcache_6613/Default/Code Cache/js/index-dir/the-real-index
+Saved/webcache_6613/Default/DIPS
+Saved/webcache_6613/Default/Extension State/LOG
+Saved/webcache_6613/Default/History
+Saved/webcache_6613/Default/Local Storage/leveldb/LOG
+Saved/webcache_6613/Default/Network/TransportSecurity
+Saved/webcache_6613/Default/Network/Trust Tokens
+Saved/webcache_6613/Default/Preferences
+Saved/webcache_6613/Default/Session Storage/LOG
+Saved/webcache_6613/Default/shared_proto_db/000003.log
+Saved/webcache_6613/Default/shared_proto_db/LOG
+Saved/webcache_6613/Default/shared_proto_db/metadata/000003.log
+Saved/webcache_6613/Default/shared_proto_db/metadata/LOG
+Saved/webcache_6613/Default/Site Characteristics Database/LOG
+Saved/webcache_6613/Default/Sync Data/LevelDB/LOG
+Saved/webcache_6613/first_party_sets.db
+Saved/webcache_6613/Local State
+Saved/webcache_6613/segmentation_platform/ukm_db
+Saved/webcache_6613/segmentation_platform/ukm_db-journal
+Saved/webcache_6613/Variations
