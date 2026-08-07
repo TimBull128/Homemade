@@ -1,2 +1,3 @@
-2026/07/31-09:59:34.168 57e4 Creating DB C:\Users\TimBu\Documents\Unreal Projects\Homemade\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/07/31-09:59:34.195 57e4 Reusing MANIFEST C:\Users\TimBu\Documents\Unreal Projects\Homemade\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/08/07-12:10:27.575 67d8 Reusing MANIFEST C:\Users\TimBu\Documents\Unreal Projects\Homemade\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/08/07-12:10:27.593 67d8 Recovering log #3
+2026/08/07-12:10:27.594 67d8 Reusing old log C:\Users\TimBu\Documents\Unreal Projects\Homemade\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
