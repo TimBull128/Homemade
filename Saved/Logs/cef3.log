@@ -1,10 +1,11 @@
-[3860:11220:0902/095243.582:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[3860:1536:0902/095244.531:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[3860:11220:0902/095244.640:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14824:22916:0902/095251.300:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-ADA400BC2995BD8E5BF8595D25899CC1 will be ignored
-[3860:11220:0902/102221.230:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
-[3860:11220:0902/102221.238:WARNING:sad_tab.cc(255)] Tab Killed: https://editor.unrealengine.com/
-[3860:11220:0902/102221.303:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=1
-[3860:11220:0902/102221.303:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 1 time(s)
-[3860:11220:0902/102221.734:WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 339 ms
-[3860:11220:0902/120514.192:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[19396:22196:0902/142344.449:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19396:12360:0902/142344.537:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19396:22196:0902/142344.601:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[30568:6880:0902/142349.015:ERROR:backend_impl.cc(989)] Critical error found -8
+[30568:6880:0902/142349.480:WARNING:storage_block-inl.h(138)] Failed data load.
+[30568:6880:0902/142349.480:WARNING:storage_block-inl.h(138)] Failed data load.
+[30568:6880:0902/142349.481:ERROR:entry_impl.cc(955)] Failed to save user data
+[24212:14316:0902/142349.905:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-70124DB37411F9D4858A954BD63F23C4 will be ignored
+[16240:30048:0902/142431.580:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-2EDC0F8F2B20BA101696AE9550954452 will be ignored
+[30568:29816:0902/142432.479:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19396:22196:0902/142649.125:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
