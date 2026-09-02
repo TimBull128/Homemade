@@ -1,7 +1,10 @@
-[2332:13736:0901/112801.822:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[2332:9716:0901/112801.899:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[2332:13736:0901/112801.945:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[28004:33280:0901/112806.774:ERROR:backend_impl.cc(989)] Critical error found -8
-[28004:33280:0901/112807.637:WARNING:storage_block-inl.h(138)] Failed data load.
-[21024:9940:0901/112808.074:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B3E3376C0E6E65471BF327DF0B86FA79 will be ignored
-[2332:13736:0901/143533.245:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[3860:11220:0902/095243.582:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[3860:1536:0902/095244.531:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[3860:11220:0902/095244.640:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14824:22916:0902/095251.300:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-ADA400BC2995BD8E5BF8595D25899CC1 will be ignored
+[3860:11220:0902/102221.230:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[3860:11220:0902/102221.238:WARNING:sad_tab.cc(255)] Tab Killed: https://editor.unrealengine.com/
+[3860:11220:0902/102221.303:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=1
+[3860:11220:0902/102221.303:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 1 time(s)
+[3860:11220:0902/102221.734:WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 339 ms
+[3860:11220:0902/120514.192:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
