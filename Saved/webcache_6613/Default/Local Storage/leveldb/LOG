@@ -1,5 +1,8 @@
-2026/10/09-12:11:37.731 89cc Reusing MANIFEST C:\Users\TimBu\Documents\Unreal Projects\Homemade\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/10/09-12:11:37.738 89cc Recovering log #18
-2026/10/09-12:11:37.744 89cc Reusing old log C:\Users\TimBu\Documents\Unreal Projects\Homemade\Saved\webcache_6613\Default\Local Storage\leveldb/000018.log 
-2026/10/09-12:19:59.286 54a0 Level-0 table #22: started
-2026/10/09-12:19:59.317 54a0 Level-0 table #22: 74608 bytes OK
+2026/10/09-12:23:40.211 8bcc Reusing MANIFEST C:\Users\TimBu\Documents\Unreal Projects\Homemade\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/09-12:23:40.220 8bcc Recovering log #18
+2026/10/09-12:23:40.220 8bcc Level-0 table #21: started
+2026/10/09-12:23:40.244 8bcc Level-0 table #21: 74608 bytes OK
+2026/10/09-12:23:40.244 8bcc Recovering log #21
+2026/10/09-12:23:40.251 8bcc Reusing old log C:\Users\TimBu\Documents\Unreal Projects\Homemade\Saved\webcache_6613\Default\Local Storage\leveldb/000021.log 
+2026/10/09-12:23:40.263 8bcc Delete type=0 #18
+2026/10/09-12:23:40.264 8bcc Delete type=2 #22
