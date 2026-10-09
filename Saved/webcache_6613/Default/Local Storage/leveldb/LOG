@@ -1,3 +1,14 @@
-2026/10/09-12:27:33.469 8b10 Reusing MANIFEST C:\Users\TimBu\Documents\Unreal Projects\Homemade\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/10/09-12:27:33.483 8b10 Recovering log #21
-2026/10/09-12:27:33.493 8b10 Reusing old log C:\Users\TimBu\Documents\Unreal Projects\Homemade\Saved\webcache_6613\Default\Local Storage\leveldb/000021.log 
+2026/10/09-12:32:47.246 6ea0 Reusing MANIFEST C:\Users\TimBu\Documents\Unreal Projects\Homemade\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/09-12:32:47.257 6ea0 Recovering log #21
+2026/10/09-12:32:47.257 6ea0 Level-0 table #23: started
+2026/10/09-12:32:47.273 6ea0 Level-0 table #23: 65895 bytes OK
+2026/10/09-12:32:47.288 6ea0 Delete type=0 #21
+2026/10/09-12:32:47.290 6710 Compacting 4@0 + 1@1 files
+2026/10/09-12:32:47.306 6710 Generated table #25@0: 10 keys, 14284 bytes
+2026/10/09-12:32:47.306 6710 Compacted 4@0 + 1@1 files => 14284 bytes
+2026/10/09-12:32:47.307 6710 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/09-12:32:47.309 6710 Delete type=2 #13
+2026/10/09-12:32:47.309 6710 Delete type=2 #15
+2026/10/09-12:32:47.309 6710 Delete type=2 #19
+2026/10/09-12:32:47.310 6710 Delete type=2 #21
+2026/10/09-12:32:47.310 6710 Delete type=2 #23
