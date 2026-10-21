@@ -1,15 +1,30 @@
-[20328:20332:1021/142140.394:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[20328:14360:1021/142140.458:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[20328:19628:1021/142140.458:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[18220:8112:1021/142140.514:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[20328:20332:1021/142140.520:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[20328:1692:1021/142145.462:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[18220:8112:1021/142145.531:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[19876:19868:1021/142145.698:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C148C291F24D38AA39D640729B9851DB will be ignored
-[16656:19872:1021/142145.920:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-3F822ABDFDC3811E4EA195857B08CC21 will be ignored
-[3140:8804:1021/142145.982:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[20328:14360:1021/142155.467:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[18220:8112:1021/142155.548:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[20328:14360:1021/142215.471:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[18220:8112:1021/142215.556:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[20328:20332:1021/143414.984:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[3296:16772:1021/143718.101:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[3296:20760:1021/143718.189:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3296:20760:1021/143718.189:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[3296:16772:1021/143718.255:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[9288:24304:1021/143718.259:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[4584:5156:1021/143722.728:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3134EC9972380EDECB7F9C864525E128 will be ignored
+[1864:2856:1021/143722.861:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-A834B80054B1237F4B3EC682D549B285 will be ignored
+[6964:16708:1021/143722.895:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[3296:21592:1021/143723.195:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9288:24304:1021/143723.276:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3296:20760:1021/143733.199:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9288:24304:1021/143733.293:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3296:20760:1021/143753.204:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9288:24520:1021/143753.299:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3296:21592:1021/152018.255:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9288:24304:1021/152018.255:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3296:20760:1021/152023.264:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9288:24304:1021/152023.285:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3296:20760:1021/152033.270:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9288:24304:1021/152033.313:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3296:20760:1021/152053.277:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9288:24304:1021/152053.323:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3296:20760:1021/162018.256:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9288:24304:1021/162018.268:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3296:20760:1021/162023.264:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9288:24304:1021/162023.291:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3296:20760:1021/162033.272:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9288:24520:1021/162033.310:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3296:20760:1021/162053.280:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9288:24304:1021/162053.320:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
