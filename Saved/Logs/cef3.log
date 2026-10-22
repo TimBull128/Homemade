@@ -1,30 +1,5 @@
-[3296:16772:1021/143718.101:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[3296:20760:1021/143718.189:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[3296:20760:1021/143718.189:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[3296:16772:1021/143718.255:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[9288:24304:1021/143718.259:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[4584:5156:1021/143722.728:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3134EC9972380EDECB7F9C864525E128 will be ignored
-[1864:2856:1021/143722.861:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-A834B80054B1237F4B3EC682D549B285 will be ignored
-[6964:16708:1021/143722.895:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[3296:21592:1021/143723.195:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9288:24304:1021/143723.276:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[3296:20760:1021/143733.199:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9288:24304:1021/143733.293:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[3296:20760:1021/143753.204:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9288:24520:1021/143753.299:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[3296:21592:1021/152018.255:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9288:24304:1021/152018.255:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[3296:20760:1021/152023.264:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9288:24304:1021/152023.285:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[3296:20760:1021/152033.270:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9288:24304:1021/152033.313:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[3296:20760:1021/152053.277:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9288:24304:1021/152053.323:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[3296:20760:1021/162018.256:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9288:24304:1021/162018.268:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[3296:20760:1021/162023.264:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9288:24304:1021/162023.291:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[3296:20760:1021/162033.272:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9288:24520:1021/162033.310:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[3296:20760:1021/162053.280:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9288:24304:1021/162053.320:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9160:8524:1022/104317.154:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9160:11392:1022/104317.257:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[9160:8524:1022/104317.325:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25540:10020:1022/104323.207:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E3E05E2F77D44FEB7AFDE06B9143770C will be ignored
+[9160:8524:1022/111943.376:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
